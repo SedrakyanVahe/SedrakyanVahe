@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SedrakyanVahe&color=brightgreen" alt="watching_count" />
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sedrakyan Vahe</h1>
-  <h3 align="center">Software Engineer </h3>
 </div>
 
 <h3 align="center">Connect with me</h3>
@@ -13,15 +12,16 @@
   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vahe93435013)
 </div>
 
+</hr>
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
   <a href="https://www.w3schools.com/cpp/" target="_blank">
