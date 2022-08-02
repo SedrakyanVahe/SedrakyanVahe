@@ -3,16 +3,13 @@
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sedrakyan Vahe</h1>
 </div>
 
-<h3 align="center">Connect with me</h3>
-
-<div align="center">
-
-  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-sedrakyan/)
-  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sedrakyanvahe/)
-  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vahe93435013)
+<h3 align="center">Github Stats</h3>
+<div align= "center">
+  
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SedrakyanVahe&count_private=true&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SedrakyanVahe&count_private=true&theme=react&layout=compact" />
 </div>
 
-<br>
 <br>
 
 <h3 align="center">Languages and Tools</h3>
@@ -59,12 +56,12 @@
 </p>
 
 <br>
-<br>
 
-<h3 align="center">Github Stats</h3>
-<div align= "center">
-  
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SedrakyanVahe&count_private=true&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SedrakyanVahe&count_private=true&theme=react&layout=compact" />
+<h3 align="center">Connect with me</h3>
+<div align="center">
+
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-sedrakyan/)
+  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sedrakyanvahe/)
+  [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vahe93435013)
 </div>
 <br>
