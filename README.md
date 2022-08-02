@@ -12,10 +12,12 @@
   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vahe93435013)
 </div>
 
-</hr>
+<br>
+<br>
+
 <h3 align="center">Languages and Tools</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a>
@@ -54,10 +56,15 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</div>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SedrakyanVahe&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SedrakyanVahe&theme=react&layout=compact" />
 </p>
+
+<br>
+<br>
+
+<h3 align="center">Github Stats</h3>
+<div align= "center">
+  
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SedrakyanVahe&count_private=true&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SedrakyanVahe&count_private=true&theme=react&layout=compact" />
+</div>
 <br>
