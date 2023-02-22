@@ -3,13 +3,6 @@
   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sedrakyan Vahe</h1>
 </div>
 
-<h3 align="center">Github Stats</h3>
-<div align= "center">
-  
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=SedrakyanVahe&count_private=true&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SedrakyanVahe&count_private=true&theme=react&layout=compact" />
-</div>
-
 <br>
 
 <h3 align="center">Languages and Tools</h3>
